@@ -1,0 +1,13 @@
+D:\VisualStudioProjetos\Nullabe\Nullabe\bin\Debug\netcoreapp3.1\Nullabe.exe
+D:\VisualStudioProjetos\Nullabe\Nullabe\bin\Debug\netcoreapp3.1\Nullabe.deps.json
+D:\VisualStudioProjetos\Nullabe\Nullabe\bin\Debug\netcoreapp3.1\Nullabe.runtimeconfig.json
+D:\VisualStudioProjetos\Nullabe\Nullabe\bin\Debug\netcoreapp3.1\Nullabe.runtimeconfig.dev.json
+D:\VisualStudioProjetos\Nullabe\Nullabe\bin\Debug\netcoreapp3.1\Nullabe.dll
+D:\VisualStudioProjetos\Nullabe\Nullabe\bin\Debug\netcoreapp3.1\Nullabe.pdb
+D:\VisualStudioProjetos\Nullabe\Nullabe\obj\Debug\netcoreapp3.1\Nullabe.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\Nullabe\Nullabe\obj\Debug\netcoreapp3.1\Nullabe.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\Nullabe\Nullabe\obj\Debug\netcoreapp3.1\Nullabe.AssemblyInfo.cs
+D:\VisualStudioProjetos\Nullabe\Nullabe\obj\Debug\netcoreapp3.1\Nullabe.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\Nullabe\Nullabe\obj\Debug\netcoreapp3.1\Nullabe.dll
+D:\VisualStudioProjetos\Nullabe\Nullabe\obj\Debug\netcoreapp3.1\Nullabe.pdb
+D:\VisualStudioProjetos\Nullabe\Nullabe\obj\Debug\netcoreapp3.1\Nullabe.genruntimeconfig.cache
